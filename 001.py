@@ -6,5 +6,5 @@ def fac (toNum):
 
 	return tmp
 
-print fac(5)
-print fac(6)
+print fac(5) # 120
+print fac(6) # 720
